@@ -13,7 +13,7 @@ For more information on ITExperience, visit the [`ITExperience website`](https:/
 
 #### How to Join This Project:
 
-we hope you are interested in collaborating on this project. To join, please follow some useful tips on how to colloborate on open source projects on GitHub
+To join contribute to this project, please follow some useful tips on how to colloborate on open source projects on GitHub
 
-- [`Documentation on how to colloborate on GitHub`] (https://gist.github.com/MarcDiethelm/7303312 "How to GitHub")
-- [`Short video on GitHub for beginners`] (https://www.youtube.com/watch?v=HbSjyU2vf6Y "YouTube Video on GitHub")
+- [`Documentation on how to colloborate on GitHub`](https://gist.github.com/MarcDiethelm/7303312 "How To GitHub - Documentation")
+- [`Short video on how to collaborate on GitHub`](https://www.youtube.com/watch?v=HbSjyU2vf6Y "How to GitHub - Video")
