@@ -1,9 +1,9 @@
 # Stock Market Analysis
-#### Analyze stock market using Python
+### Analyze stock market using Python
 
 This is a collaborative space for ITExperience mentees to build their portfolios and sharpen programming skills. 
 
-#### Objective:
+### Objective:
 
 For this project, collaborators will be utilziing the Python programming language to analyze data from the stock market available through Yahoo Finance. The main objective is to provide practise for the Python programming language. 
 
@@ -11,11 +11,11 @@ As this is an open source project, the actual outcome of what the coding exercis
 
 For more information on ITExperience, visit the [`ITExperience website`](https://itexperience.org/ "ITExperience Website")
 
-#### Project Information:
+### Project Information:
 
 The main source of stock data will be Yahoo Finance. Python library for pulling stock data from Yahoo is [`YFinance`](https://pypi.org/project/yfinance "YFinance Documentation"). This will be used along with other common Python libraries of choice for plotting and analysis of data.
 
-#### How to Join This Project:
+### How to Join This Project:
 
 To contribute to this project, you will need to [`create a free GitHub account`](https://github.com/join "Join GitHub") if don't already have one. 
 
