@@ -11,6 +11,10 @@ As this is an open source project, the actual outcome of what the coding exercis
 
 For more information on ITExperience, visit the [`ITExperience website`](https://itexperience.org/ "ITExperience Website")
 
+#### Project Information:
+
+The main source of stock data will be Yahoo Finance. Python library for pulling stock data from Yahoo is [`YFinance`](https://pypi.org/project/yfinance "YFinance Documentation"). This will be used along with other common Python libraries of choice for plotting and analysis of data.
+
 #### How to Join This Project:
 
 To contribute to this project, please follow some useful tips on how to colloborate on open source projects on GitHub
