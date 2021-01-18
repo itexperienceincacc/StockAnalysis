@@ -19,7 +19,7 @@ The main source of stock data will be Yahoo Finance. Python library for pulling 
 
 To contribute to this project, you will need to [`create a free GitHub account`](https://github.com/join "Join GitHub") if don't already have one. 
 
-Once you have an account, go to the [`ITExperience/StockAnalysis repository`](https://github.com/itexperienceincacc/StockAnalysis "ITExperience Repo") and **_"FORK"_** the repository to your own GitHub account. Please follow the useful tips in the links below on how to **_"FORK"_** and colloborate on GitHub. **One thing to note** about the video guide, you can skip the  step of **_"CLONE"_** to your desktop since you can write your code and **_"COMMIT"_** all from Google Colab.
+Once you have an account, go to the [`ITExperience/StockAnalysis repository`](https://github.com/itexperienceincacc/StockAnalysis "ITExperience Repo") and **_"FORK"_** the repository to your own GitHub account. Please follow the useful tips in the links below on how to **_"FORK"_** and colloborate on GitHub. **One thing to note** about the video guide, before you add your edits, be sure to **_"CLONE"_** and get the latest version fo the code. Afterwards, you can write your code and **_"COMMIT"_** all from Google Colab.
 
 - [`Documentation on how to colloborate on GitHub`](https://gist.github.com/MarcDiethelm/7303312 "How To GitHub - Documentation")
 - [`Short video on how to collaborate on GitHub`](https://www.youtube.com/watch?v=HbSjyU2vf6Y "How to GitHub - Video")
